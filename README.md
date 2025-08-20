@@ -1,4 +1,4 @@
- ## Hi there, my Name is Darren 👋
+ ## Hi there, my Name is Darren! 👋
 
  I am a student from Kiel, Germany!
 
